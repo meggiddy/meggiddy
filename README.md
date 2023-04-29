@@ -14,7 +14,10 @@ I'm proficient in ReactJs, React Native, GraphQL and NodeJS. Some of the tools I
 ## Projects
 Here are some of the projects I'm proud to have contributed to:
 
-PlayPesa: https://www.playpesaleague.com Create a football club and earn real money from three sources: (1) competing against other clubs, (2) selling your old players, and (3) earnings from ads and sponsorhips.
+PlayPesa: https://www.playpesaleague.com Create a football club and earn real money from three sources: 
+1. Competing against other clubs, 
+2. Selling your old players, and 
+3. Earnings from ads and sponsorhips.
 
 ## Contact
 If you'd like to get in touch, you can reach me via https://maggie-muriithi.vercel.app. I'm always happy to connect and collaborate on new projects.
