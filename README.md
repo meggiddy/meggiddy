@@ -9,6 +9,8 @@ I'm proficient in ReactJs, React Native, GraphQL and NodeJS. Some of the tools I
 - Apollo GraphQL
 - ReactJs
 - ioS/Android Simulator
+- React Native
+- NextJs
 
 
 ## Projects
