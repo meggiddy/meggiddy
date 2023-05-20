@@ -19,7 +19,7 @@ Here are some of the projects I'm proud to have contributed to:
 - Incorporated their Website into an app, 
 - Worked on the frontend of the Website.
 
-2. PlayPesa: https://www.playpesaleague.com Create a football club and earn real money from three sources: 
+2. PlayPesa: https://www.playpesaleague.com Online Football game: 
 - Built the game Screens using React Native. 
 - Worked with GraphQL.
 - Used WebSockets.
