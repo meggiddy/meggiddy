@@ -16,13 +16,13 @@ I'm proficient in ReactJs, React Native, GraphQL and NodeJS. Some of the tools I
 ## Projects
 Here are some of the projects I'm proud to have contributed to:
 1. Luna Africa: https://www.lunafrica.com LUNA Africa provides teleservices for women that are safe and trusted by the community. My roles included: 
-1. Incorporated their Website into an app, 
-2. Worked on the frontend of the Website.
+- Incorporated their Website into an app, 
+- Worked on the frontend of the Website.
 
 2. PlayPesa: https://www.playpesaleague.com Create a football club and earn real money from three sources: 
-1. Built the game Screens using React Native. 
-2. Worked with GraphQL.
-3. Used WebSockets.
+- Built the game Screens using React Native. 
+- Worked with GraphQL.
+- Used WebSockets.
 
 ## Contact
 If you'd like to get in touch, you can reach me via https://maggie-muriithi.vercel.app. I'm always happy to connect and collaborate on new projects.
