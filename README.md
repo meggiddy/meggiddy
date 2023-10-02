@@ -11,6 +11,7 @@ I'm proficient in ReactJs, React Native, GraphQL and NodeJS. Some of the tools I
 - ioS/Android Simulator
 - React Native
 - NextJs
+- Typescript
 
 
 ## Projects
