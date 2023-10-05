@@ -25,5 +25,9 @@ Here are some of the projects I'm proud to have contributed to:
 - Worked with GraphQL.
 - Used WebSockets.
 
+3. Imamic Consultants: https://www.imamic.co.ke
+- Full website design and launching
+- Used NodeJs and express with a supabase db
+
 ## Contact
 If you'd like to get in touch, you can reach me via https://maggie-muriithi.vercel.app. I'm always happy to connect and collaborate on new projects.
